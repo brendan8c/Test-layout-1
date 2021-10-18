@@ -1,0 +1,51 @@
+{
+    "name": "start_gulp",
+    "version": "1.0.0",
+    "description": "gulp",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brendan8c/start_gulp.git"
+    },
+    "author": "Brendan8c",
+    "license": "MIT",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/brendan8c/start_gulp/issues"
+    },
+    "homepage": "https://github.com/brendan8c/start_gulp#readme",
+    "devDependencies": {
+        "@babel/core": "^7.15.8",
+        "@babel/preset-env": "^7.15.8",
+        "autoprefixer": "^10.3.7",
+        "browser-sync": "^2.27.5",
+        "clean-css": "^5.2.1",
+        "del": "^6.0.0",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.0",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-file-include": "^2.3.0",
+        "gulp-postcss": "^9.0.1",
+        "gulp-posthtml": "^3.0.5",
+        "gulp-sass": "^5.0.0",
+        "gulp-size": "^4.0.1",
+        "gulp-ttf2woff": "^1.1.1",
+        "gulp-ttf2woff2": "^4.0.1",
+        "html-minifier": "^4.0.0",
+        "owl.carousel": "^2.3.4",
+        "postcss-pxtorem": "^6.0.0",
+        "posthtml-postcss": "^0.5.0",
+        "replace-in-file": "^6.3.1",
+        "sass": "^1.43.2",
+        "terser": "^5.9.0"
+    },
+    "dependencies": {
+        "jquery": "^3.6.0",
+        "normalize.css": "^8.0.1"
+    }
+}
